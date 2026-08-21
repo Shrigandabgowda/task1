@@ -11,6 +11,7 @@ Step 3: First Project
 2. Add Java class: Right-click src → New → Java Class
 3. Type code → Run with green arrow button
 
+
 ----------------------------------------------------------------------------------------------------
 1. Hello World & Environment Test
 Purpose: Validate Java installation and IDE configuration
